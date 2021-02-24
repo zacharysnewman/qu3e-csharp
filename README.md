@@ -1,4 +1,4 @@
-qu3e v1.01
+qu3e-csharp v0.0 (Porting to C# In-Progress)
 ==========
 
 qu3e is a compact, light-weight and fast 3D physics engine in C++. It is has been specifically created to be used in games. It is portable with no external dependencies other than various standard c header files (such as **cassert** and **cmath**). qu3e is designed to have an extremely simple interface for creating and manipulating rigid bodies.
